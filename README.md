@@ -2,6 +2,8 @@
 
 This is a simple and beautiful recipe page built as part of the **Rocketseat Fullstack Bootcamp**. The goal was to apply basic HTML and CSS knowledge to build a visually appealing recipe card for a delicious coffee cupcake with whipped cream.
 
+🔗 **[Live Preview](https://eugeniobarrosjr.github.io/recipe-page/)**
+
 ## 📸 Preview
 
 <p align="center">
